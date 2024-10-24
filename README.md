@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhxer
+- 👋 Hi, I’m subhexe
 - 👀 I’m an experience Minecraft Server Developer
 - 🌱 I’m currently learning Skript
 - 📫 To reach me DM me on Discord my Discord username is subhexe
