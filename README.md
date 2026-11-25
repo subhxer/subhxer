@@ -1,7 +1,7 @@
 - 👋 Hi, I’m subhexe
-- 👀 I’m an experience Minecraft Server Developer
+- 👀 I’m an experienced Minecraft Server Developer
 - 🌱 I’m currently learning Skript
-- 📫 To reach me DM me on Discord my Discord username is subhexe
+- 📫 To reach me. DM me on Discord my Discord username is subhexe
 - ⚡ Fun fact: I can make big minecraft servers in less time
 
 <!---
